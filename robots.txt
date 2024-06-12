@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gjaalin.github.io/sitemap/sitemap.txt
